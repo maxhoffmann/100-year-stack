@@ -26,9 +26,9 @@ There are a lot of choices to achieve these goals. Alexander also suggests a tec
 
 ## Todo
 
-- [] add basic fastify server
-- [] add SQLite database with proper pragmas
-- [] add example routes with db connection and rendering
-- [] add CSS structure using its capabilities like @layers, custom properties, view transitions etc
-- [] add HTMX/Datastar
-- [] add Dockerfile for easy setup
+- [ ] add basic fastify server
+- [ ] add SQLite database with proper pragmas
+- [ ] add example routes with db connection and rendering
+- [ ] add CSS structure using its capabilities like @layers, custom properties, view transitions etc
+- [ ] add HTMX/Datastar
+- [ ] add Dockerfile for easy setup
