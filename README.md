@@ -18,11 +18,11 @@ There are a lot of choices to achieve these goals. Alexander also suggests a tec
 - **SQLite**<br>
   Probably the simplest database that is also battle-tested and has a very strong [LTS commitment](https://sqlite.org/lts.html).
 - **CSS**<br>
-  It might be weird to now just list a browser technology, but this is intentional. CSS has evolved and is evolving to offer everything that is needed to build robust and flexible design systems. Every layer on top of it, is an unnecessary liability.
+  It might be weird to just list a browser technology, but this is intentional. CSS has evolved and continues to evolve, offering everything needed to build robust and flexible design systems. Every layer on top of it, is an unnecessary liability.
 - **HTML**<br>
-  Whatever can be done with HTML, should be done with HTML. This also includes using native web components if applicable.
+  Whatever can be done with HTML, should be done with HTML. This includes native web components.
 - **HTMX/Datastar**<br>
-  If none of the technologies above suiffce, JavaScript may be used. JavaScript on the client side is a tricky subject, as there is an ocean of libraries with frequent breaking changes. [HTMX](https://htmx.org/essays/future/) and [Datastar](https://data-star.dev/essays/the_road_to_v1) are both committed to long term stability. Datastar hasn’t reached 1.0 at the time of writing, so it’s unclear yet, if it can be a proper alternative to HTMX.
+  If none of the technologies above suffice, JavaScript may be used. JavaScript on the client side is a tricky subject, as there is an ocean of libraries with frequent breaking changes. [HTMX](https://htmx.org/essays/future/) and [Datastar](https://data-star.dev/essays/the_road_to_v1) are both committed to long term stability.
 
 ## Todo
 
